@@ -1,2 +1,2 @@
-# SARS-COV-2-EPIDEMIOLOGY
-Informes sobre la epidemia de COVID en México a 
+# CHALLENGE CDMX 2020
+## Proyecto final
